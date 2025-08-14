@@ -54,20 +54,25 @@
 
 ###
 
+
 <br clear="both">
 
 <!-- Pac-Man Contribution Graph -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/psyv27/my/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/psyv27/my/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/psyv27/my/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/psyv27/my/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/psyv27/my/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph"
+       src="https://raw.githubusercontent.com/psyv27/my/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
 
 <!-- Snake Animation -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/psyv27/my/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/psyv27/my/output/snake.svg"
+       alt="Snake animation" />
 </div>
 
 ###
@@ -79,5 +84,6 @@
 ###
 
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played" />
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5"
+       alt="Spotify recently played" />
 </div>
