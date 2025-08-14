@@ -40,50 +40,7 @@
 
 ###
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/psyvemil/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="linkedin logo" />
-  </a>
-  <a href="https://discord.com/users/psyv.emil" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&color=7289DA&logoColor=white&style=for-the-badge" height="25" alt="discord logo" />
-  </a>
-  <a href="https://t.me/psyv0" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&color=2CA5E0&logoColor=white&style=for-the-badge" height="25" alt="telegram logo" />
-  </a>
-</div>
 
 ###
 
 
-<br clear="both">
-
-<!-- Pac-Man Contribution Graph -->
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-          srcset="https://raw.githubusercontent.com/psyv27/my/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)"
-          srcset="https://raw.githubusercontent.com/psyv27/my/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man contribution graph"
-       src="https://raw.githubusercontent.com/psyv27/my/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<!-- Snake Animation -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/psyv27/my/output/snake.svg"
-       alt="Snake animation" />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=psyv27.my" />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5"
-       alt="Spotify recently played" />
-</div>
