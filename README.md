@@ -65,6 +65,7 @@
           srcset="https://raw.githubusercontent.com/psyv27/my/output/pacman-contribution-graph.svg">
   <img alt="Pac-Man contribution graph"
        src="https://raw.githubusercontent.com/psyv27/my/output/pacman-contribution-graph.svg">
+  
 </picture>
 
 ###
