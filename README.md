@@ -58,7 +58,7 @@
 <br clear="both">
 
 <!-- Pac-Man Contribution Graph -->
-<picture>
+<div align="center">
   <source media="(prefers-color-scheme: dark)"
           srcset="https://raw.githubusercontent.com/psyv27/my/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)"
@@ -66,7 +66,7 @@
   <img alt="Pac-Man contribution graph"
        src="https://raw.githubusercontent.com/psyv27/my/output/pacman-contribution-graph.svg">
   
-</picture>
+</div>
 
 ###
 
